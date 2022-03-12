@@ -1,0 +1,12 @@
+<label>Enter a number to get index in the Fibonacci Sequence</label>
+<!--<input-->
+  <!--type="text"-->
+  <!--class="form-control"-->
+  <!--(input)="onUpdateServerName($event)">-->
+<input
+  type="text"
+  class="form-control"
+  [(ngModel)]="num">
+ <label>Index</label> 
+<p>{{ getIndex(num) }}</p>
+
