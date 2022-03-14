@@ -1,27 +1,57 @@
-# MyFirstApp
+# Fibonacci-sequence
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+An angular app that displays the index of an entered number in the Fibonacci sequence
 
-## Development server
+## 🔴  Live Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+[Metrics-webapp](https://wizardly-kilby-57b112.netlify.app/)
 
-## Code scaffolding
+## Built with
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-   Angular
+-   Redux
+-   Java scripts ES6
+-   NPM
+-   vscode
 
-## Build
+### Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+you need to make sure you have the following on your machine
 
-## Running unit tests
+first, make sure you have Nodejs and Npm installed on your local machine 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[How to Install Node.js and npm on Ubuntu 18.04](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
 
-## Running end-to-end tests
+Install Angular CLI
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+[sudo] npm install -g @angular/cli 
 
-## Further help
+> 1. run `git clone https://github.com/erezfree29/Fibonacci-sequence-/`
+> 2. run `cd Fibonacci-sequence-`
+> 3. type npm install / or yarn install.
+> 4. type ng serve
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+### testing
+
+> Once you run npm install simply type ng test and it will run the tests 
+
+## Author
+
+👤 **Erez Friemagor**
+
+[<code><img height="26" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>](https://github.com/erezfree29)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png"></code>](https://twitter.com/friemagor?lang=en)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></code>](https://www.linkedin.com/in/erez-friemagor/?originalSubdomain=uk)
+<a href="mailto:erezfree29@gmail.com?subject=Hey Erez!"><img height="26" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"></a>
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues](https://github.com/erezfree29/Fibonacci-sequence/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
