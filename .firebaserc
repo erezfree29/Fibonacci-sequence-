@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fibonacci-number-c1cf3": {
+      "hosting": {
+        "my-first-app": [
+          "fibonacci-number-c1cf3"
+        ]
+      }
+    }
+  }
+}
