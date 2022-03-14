@@ -2,6 +2,8 @@ import { TestBed, ComponentFixture, async } from '@angular/core/testing';
 import { FibonacciComponent } from './fibonacci.component';
 
 
+// run tests with ng test
+
 describe('Component: Fibonacci', () => {
     let component: FibonacciComponent;
     let fixture: ComponentFixture<FibonacciComponent>;
