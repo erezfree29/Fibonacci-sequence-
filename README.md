@@ -4,7 +4,7 @@ An angular app that displays the index of an entered number in the Fibonacci seq
 
 ## 🔴  Live Demo
 
-[Metrics-webapp](https://wizardly-kilby-57b112.netlify.app/)
+[Fibonacci-sequence](https://fibonacci-number-c1cf3.web.app/)
 
 ## Built with
 
